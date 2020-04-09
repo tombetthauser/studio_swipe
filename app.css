@@ -1,0 +1,98 @@
+a, a:visited {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.main-column-div {
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
+.current-artwork-image {
+  width: 100%;
+}
+
+.selected-link {
+  text-decoration: underline;
+}
+
+.chat-name1-span {
+font-weight: 800;
+}
+
+.chat-name2-span {
+  font-weight: 800;
+}
+
+.chat-date-span {
+  /* color: gray; */
+  font-size: small;
+}
+
+.chat-text-span {
+  display: block;
+}
+
+.chat-inner-div {
+
+}
+
+.chat-input-field {
+  width: 250px;
+  border-radius: 3px;
+  border: 1px solid lightgray;
+  padding: 3px 7.5px;
+}
+
+.checkbox-footer-span {
+  margin-left: 27.5px;
+  font-size: small;
+}
+
+.profile-input-field {
+  width: 250px;
+  font-family: serif;
+  font-size: medium;
+  padding: 3px 7.5px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  border: 1px solid lightgray;
+  margin-right: 5px;
+}
+
+.update-profile-button {
+  font-family: serif;
+  font-size: medium;
+}
+
+.main-column-div p a {
+margin-right: 2px;
+}
+
+.image-switch-button {
+
+}
+
+.image-switch-div {
+  /* margin-left: 5px; */
+}
+
+.language-img {
+  height: 50px;
+  display: inline-block;
+}
+
+form button {
+  font-family: serif;
+  font-size: medium;
+}
+
+form input {
+  font-family: serif;
+  font-size: medium;
+}
