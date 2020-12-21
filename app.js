@@ -19,6 +19,11 @@ const RANDOM_ARTWORKS = [
     text: `"Pastel on paper, Noah" posted on 4/01/20`,
     name: "elliotsnider"
   },
+  {
+    url: "https://lh3.googleusercontent.com/56FFHkBQpli7K1DdYSWjhzIzFTuvXpI3f5LfOdS8x1IEaJ3FaRnjpK6RshLySUgGj7RvO1uTpqcIWA0gHZvM0MWiEV539OwR3Q=s936-l85",
+    text: `"Pastel on paper, Noah" posted on 4/01/20`,
+    name: "elliotsnider"
+  },
 ]
 
 let currentIdx = 1;
